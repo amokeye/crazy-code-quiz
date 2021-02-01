@@ -9,3 +9,9 @@ This quiz was created using:
 * HTML
 * Javascript (JS)
 * CSS
+## Link to Deployed Application
+https://amokeye.github.io/crazy-code-quiz/
+## Contact
+Please contact me with any questions via:
+* Email: Amokeye91@gmail.com
+* Github: [amokeye](https://github.com/amokeye/crazy-code-quiz)
