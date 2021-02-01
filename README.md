@@ -13,5 +13,5 @@ This quiz was created using:
 https://amokeye.github.io/crazy-code-quiz/
 ## Contact
 Please contact me with any questions via:
-* Email: Amokeye91@gmail.com
+* Email: Amokeye91@gmail.com or,
 * Github: [amokeye](https://github.com/amokeye/crazy-code-quiz)
